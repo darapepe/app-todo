@@ -1,7 +1,7 @@
 import React from "react";
 
 function EmptyTodos() {
-    return <p>!Crea tu primer TODO!</p>;
+    return <center><p>!Crea tu primer TODO!</p></center>;
 }
 
 export { EmptyTodos };
