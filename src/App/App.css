@@ -1,0 +1,27 @@
+.row {
+  display: flex;
+}
+
+.column1 {
+  flex: 50%;
+  background-color: rgba(237, 235, 235, 0.5);
+  border-radius: 20px;
+}
+
+.columnMid {
+  flex: 2%;
+}
+
+.column2 {
+  flex: 50%;
+  background-color: rgba(196, 221, 255, 0.75);
+  border-radius: 20px;
+}
+
+body {
+  background-image: linear-gradient(45deg, #FFFFFF, rgb(107, 183, 253));
+  background-repeat: no-repeat;  
+  margin-top: 20px;
+  height: 100%;
+  /*overflow: hidden*/
+}

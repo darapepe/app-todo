@@ -1,0 +1,16 @@
+.TodoCounter {
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    padding: 18px;
+  }
+
+  .TodoCounterH1 {
+    font-size: 28px;
+    text-align: center;
+  }
+
+  img {
+    padding: 5px;
+    width: 250px;
+  }
